@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1093696266809",
+    "firebase_url": "https://jackloop-8c6a6-default-rtdb.firebaseio.com",
+    "project_id": "jackloop-8c6a6",
+    "storage_bucket": "jackloop-8c6a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093696266809:android:348841e0ebe9211d23a3e8",
+        "android_client_info": {
+          "package_name": "com.example.maddfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQHMkeIXsGNy-jzf110xrj07bnmKn6q1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

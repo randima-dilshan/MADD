@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MADDFinal</string>
+
+    <string name="intro_title">Jackloop</string>
+    <string name="intro_sub_title">"Your Gateway to digital Excellence"</string>
+
+    <string name="Signing">Already have an account?<font color="#BD00DD"> Sign In</font> </string>
+    <string name="recommendation">Recommendation</string>
+    <string name="see_all">See all</string>
+    <string name="profile">Profile</string>
+    <string name="my_order">My order</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="cart">Cart</string>
+    <string name="explore">Explore</string>
+    <string name="subtoal">Subtoal</string>
+    <string name="fee_delivery">Fee Delivery</string>
+    <string name="total_tax">Total Tax</string>
+    <string name="payment_method">Payment Method</string>
+</resources>
